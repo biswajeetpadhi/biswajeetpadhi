@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Biswajeet<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">AI Enthusiast, a Curious Data Scientist and Life-Long Learner</h3>
 
-   <p align="left"> <a href="https://wa.me/918270339453" target="blank"><img align="center"
+   <p align="left"> <a href="https://wa.me/919777223392" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" /></a> </p>
    <p align="left"><a href="https://www.linkedin.com/in/biswajeetpadhi/" target="_blank">
