@@ -1,14 +1,14 @@
 <h1 align="center">Hey there, I'm Biswajeet<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">AI Enthusiast, a Curious Data Scientist and Life-Long Learner</h3>
 <a href="https://www.linkedin.com/in/biswajeetpadhi/" target="_blank"><img alt="LinkedIn" 
-	src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-	
+	src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>  
 <a href="https://twitter.com/biswajeetpadhi" target="blank">
 	<img src="https://img.shields.io/twitter/follow/biswajeetpadhi?logo=twitter&style=for-the-badge" alt="biswajeetpadhi" />
 	</a> 
-
-[![LeetCode user biswajeetpadhi](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbiswajeetpadhi&logo=leetcode&logoColor=yellow)](https://leetcode.com/biswajeetpadhi/)
-
+<a href="https://leetcode.com/biswajeetpadhi" target="blank">
+	<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbiswajeetpadhi&logo=leetcode&logoColor=yellow" alt="biswajeetpadhi" />
+	</a> 
 
 - 📫 How to reach me **biswajeetpadhi100@gmail.com**
 
@@ -68,9 +68,6 @@
   <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch"/> </a>
   <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/> </a>
   <a href="https://scipy.org/" target="_blank"> <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy"/> </a>
-
-     
-<p align="left">
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/></a>
 <a href="https://jupyter.org/" target="_blank">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
@@ -80,16 +77,15 @@
 <a href="https://colab.research.google.com/notebooks/" target="_blank"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab"/> </a>
 <a href="https://docs.anaconda.com/anaconda/user-guide/tasks/integration/spyder/#:~:text=Spyder%2C%20the%20Scientific%20Python%20Development,%2C%20debugging%2C%20and%20introspection%20features.&text=Spyder%20is%20also%20pre%2Dinstalled,which%20is%20included%20in%20Anaconda." target="_blank"> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="Spyder"/> </a>
 
+<a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
 <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828"></a>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-   <a href="https://streamlit.io/" target="_blank">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
-  </a>
+<a href="https://html.com/"><img alt="HTML" src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828"></a>
+<a href="https://streamlit.io/" target="_blank"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img alt="Streamlit" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="https://www.mysql.com/" target="_blank"><img alt="Streamlit" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+
 </p>
 
 <details> 
