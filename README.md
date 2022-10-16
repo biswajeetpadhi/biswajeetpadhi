@@ -18,8 +18,9 @@
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" />
 	 </a>
+<p align='left'>
 
-<h3 align="left">Interests:</h3>
+<h3>Interests:</h3> 
 
 - Data Science 
 - Machine Learning
@@ -27,16 +28,14 @@
 - Data Structures And Algorithms 
 - Natural Language Processing
 
-<h3 align="left">Languages:</h3>
+<h3>Languages:</h3>
 
 - English
 - Hindi
 - Odia
 
-## **Tech Toolbox🧰**<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
+## **Tech Toolbox🧰**
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
    <a href="https://www.python.org" target="_blank">
@@ -107,5 +106,5 @@
   <br/>
    <a href="https://github.com/biswajeetpadhi"><img alt="Biswajeet's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=biswajeetpadhi&custom_title=Biswajeet's%20Contribution%20Graph&theme=default" /></a>
   <br/>
-
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </details>
