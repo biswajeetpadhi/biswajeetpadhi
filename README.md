@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **biswajeetpadhi100@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/12FPNdtDLHtM5gPi6Z9UvsQtYFa7uiic2/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1vP4zLGpDFMqjiaIUtnAkE7VxK_Cd49n9/view?usp=sharing" target="blank">Resume</a>
 
 - <a href="https://wa.me/919777223392" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
